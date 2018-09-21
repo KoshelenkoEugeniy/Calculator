@@ -1,0 +1,8 @@
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.deps.json
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.dll
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.pdb
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.csproj.CoreCompileInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfoInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfo.cs
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.dll
+/Users/yevhen.koshelenko/Projects/Test/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.pdb

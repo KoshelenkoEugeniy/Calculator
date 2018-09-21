@@ -1,0 +1,9 @@
+/Users/yevhen.koshelenko/Projects/Test/View/bin/Debug/netstandard2.0/CalculatorView.deps.json
+/Users/yevhen.koshelenko/Projects/Test/View/bin/Debug/netstandard2.0/CalculatorView.dll
+/Users/yevhen.koshelenko/Projects/Test/View/bin/Debug/netstandard2.0/CalculatorView.pdb
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.csprojAssemblyReference.cache
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.csproj.CoreCompileInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.AssemblyInfoInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.AssemblyInfo.cs
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.dll
+/Users/yevhen.koshelenko/Projects/Test/View/obj/Debug/netstandard2.0/CalculatorView.pdb

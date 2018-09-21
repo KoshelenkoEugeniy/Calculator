@@ -1,0 +1,12 @@
+/Users/yevhen.koshelenko/Projects/Test/Validation/bin/Debug/netstandard2.0/CalculatorValidator.deps.json
+/Users/yevhen.koshelenko/Projects/Test/Validation/bin/Debug/netstandard2.0/CalculatorValidator.dll
+/Users/yevhen.koshelenko/Projects/Test/Validation/bin/Debug/netstandard2.0/CalculatorValidator.pdb
+/Users/yevhen.koshelenko/Projects/Test/Validation/bin/Debug/netstandard2.0/CalculatorService.dll
+/Users/yevhen.koshelenko/Projects/Test/Validation/bin/Debug/netstandard2.0/CalculatorService.pdb
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.csprojAssemblyReference.cache
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.csproj.CoreCompileInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.AssemblyInfoInputs.cache
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.AssemblyInfo.cs
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.csproj.CopyComplete
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.dll
+/Users/yevhen.koshelenko/Projects/Test/Validation/obj/Debug/netstandard2.0/CalculatorValidator.pdb

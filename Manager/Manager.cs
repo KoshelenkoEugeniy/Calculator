@@ -19,7 +19,7 @@ namespace CalculatorManager
             for (int i = 1; i <= 3; i++)
             {
                 if (i == 3)
-                    _providedInfo[i - 1] = CheckValidation(0, operatorRequest);
+                    _providedInfo[i - 1] = CheckValidation(i, operatorRequest);
                 else
                     _providedInfo[i - 1] = CheckValidation(i, numberRequest);
             }
